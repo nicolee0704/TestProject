@@ -10,7 +10,10 @@ public class YuyangDai {
 	
 	public int minus(int a, int b);
 	
-	public int multi(int a, int b);
+    public int multi(int a, int b) {
+	System.out.println("This is contributedd by yuyang dai");
+    }
 	
-	public double div(int a, int b);
+    public double div(int a, int b) {
+	System.out.println("This is contributed by yuyang dai")
  }
