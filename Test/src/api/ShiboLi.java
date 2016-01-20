@@ -4,6 +4,7 @@ public class ShiboLi {
 	
 	public static void main(String [] args) {
 		System.out.println("Hello, my name is Shbo Li");
+		System.out.println("This is another line");
 	}
 
 }
